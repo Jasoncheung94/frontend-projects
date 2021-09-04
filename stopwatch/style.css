@@ -23,7 +23,6 @@
   display: grid;
   justify-items: center;
   grid-row-gap: 20px;
-  width: 100%;
 }
 
 h1 {
