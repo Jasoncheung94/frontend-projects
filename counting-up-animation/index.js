@@ -1,9 +1,9 @@
 const counters = document.querySelectorAll(".counter");
-const speed = 400;
+const speed = 400; // speed of counting
 
 counters.forEach((counter) => {
   const updateCounter = () => {
-    // + symbol converts to a string to number.
+    // + symbol converts a string to number.
     const target = +counter.getAttribute("data-target");
     const count = +counter.innerText;
 
