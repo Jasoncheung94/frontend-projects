@@ -1,8 +1,8 @@
 # Stopwatch Project
-A stopwatch that records time in hours, minutes, seconds, milliseconds.
+A stopwatch that records time in hours, minutes, seconds, milliseconds. This is implemented using dates instead of timer intervals for accuracy.
 
 ### Preview
-<img src="https://user-images.githubusercontent.com/32305579/137602800-c5f660f9-a3f5-45fd-8833-82080189bb94.gif" width=500>
+<img src="../assets/images/stopwatch.png" width=500>
 
 ### Helpful links
 * [Icons and CDN for awesome fonts](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
