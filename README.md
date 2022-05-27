@@ -9,4 +9,5 @@ This repository is dedicated to frontend related projects, primarily vanilla jav
 | 3 |[Counting Up Animation](./counting-up-animation)         | 
 | 4 |[Counter](./counter)                                     |
 | 5 |[Countdown timer static](./countdown-timer-static)       |
-
+| 6 |[Snake](./snake/)                                        |
+| 7 |[Blackjack](./blackjack/)                                |
